@@ -2,6 +2,8 @@
 Yes, I seriously don't have any USB C to USB A cables and I need one. But what if, I had a convertor from Micro USB to USB C! That would be perfect cause I have too many Micro USB Cables.
 
 ![image](https://github.com/user-attachments/assets/238bfa58-569a-4328-8c59-38a6f0ea16b7)
+![image](https://github.com/user-attachments/assets/bb7e6783-c606-4500-b401-5f03f36fd47a)
+![image](https://github.com/user-attachments/assets/12118c6b-e4bf-4a0d-90a4-2d16b535fe26)
 
 
 #### BOM:
